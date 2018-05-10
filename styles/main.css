@@ -1,0 +1,114 @@
+.navbar {
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	padding: 25px;
+	background-color: #EEEEEE;
+	border: 1px black;
+	position: fixed;
+
+}
+.navlink {
+	display: inline-block;
+	position: absolute;
+	right: 10px;
+	font-size: 20px;
+	top: 15px;
+	margin-right: 10px;
+	
+} 
+
+.logo {
+	display: inline-block;
+	position: absolute;
+    font-size: 15px;
+    top: -10px;
+    
+}
+
+
+
+body {
+	font-size: 25px;
+}
+
+#form1{
+
+	position: relative;
+	top: 40px;
+	left: 100px;
+	
+	display: inline-block;
+
+}
+
+
+
+#searchbar {
+    height: 50px;
+	width: 760px;
+	
+}
+
+#searchicon {
+
+	
+	height: 50px;
+	border: 1px black;
+}
+
+.navbar2 {
+	position: relative;
+	top: 80px;
+	left: 100px;
+	border: 1px solid;
+	width: 350px;
+}
+
+.pagebutton {
+  
+  width: 300px;
+  position: relative;
+  margin-left: 10px;
+  margin-right: 10px;
+  
+
+}
+
+
+.centretab {
+	position: relative;
+	widows: auto;
+	border: 1px solid;
+}
+
+.result {
+    position: relative;
+	top: 160px;
+	left: 80px;
+}
+
+.res{
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.date {
+
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.location {
+	margin-right: 20px;
+	margin-left: 20px;
+	position: absolute;
+	left: 400px;
+
+}
+
+a {
+
+	text-decoration: none;
+}
